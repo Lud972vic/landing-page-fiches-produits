@@ -1,4 +1,4 @@
-Fiches produits Excel vers PowerPoint https://lud972vic.github.io/landing-page-fiches-produits/
+Fiches produits Excel vers PowerPoint
 
 <img width="2880" height="1800" alt="04-dashboard" src="https://github.com/user-attachments/assets/e429a842-1aee-4c52-a07f-40d74c2497bb" />
 
